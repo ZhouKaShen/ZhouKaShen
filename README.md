@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Zhou Ka Shen, estou no 3º período do Bacharelado em Sistemas de Informação na PUCPR. Meu interesse pela área surgiu através de videoaulas na internet e, desde então, venho me aprofundando nos estudos de programação para expandir meus conhecimentos. Além da tecnologia, gosto de aprender idiomas, como inglês e japonês. No meu tempo livre, aprecio a leitura, tocar piano, jogar e ouvir música clássica.</p>
+<p align="left">My name is Zhou Ka Shen, and i am in the 3rd semester of my Bachelor's degree in Information Systems at PUCPR. My interest in this field began with online video lessons, and since then, i have been deepening my programming studies to expand my knowledge. Besides technology, i enjoy learning languages such as English and Japanese. In my free time, i like reading, playing the piano, gaming, and listening to classical music.</p>
 
 ###
 
@@ -43,11 +43,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4ya3E3YmthcWd5YTY4b3hmYW54aWozem5zNGp0OWljMGtwbTZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zee6E59iGpstv9SBas/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZhouKaShen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhouKaShen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
