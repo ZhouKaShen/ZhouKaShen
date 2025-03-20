@@ -8,9 +8,13 @@
 
 ###
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kycjVlcjZ6aXk0emEzczYzZDJ6ZGhxenJvOWc0MGk4dDFyNGF0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQZkWFWjrovdyYE/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kycjVlcjZ6aXk0emEzczYzZDJ6ZGhxenJvOWc0MGk4dDFyNGF0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQZkWFWjrovdyYE/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Contact Me</h2>
 
